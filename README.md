@@ -1,4 +1,5 @@
 # React + Vite
+React AI Image Generator
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
